@@ -30,9 +30,9 @@ The notebook loads the data directly from the link above. If you have no interne
 ## Project Files
 | File | What it is |
 |---|---|
-| `YourName_CustomerChurnPrediction.ipynb` | Full project code with outputs |
+| `Omkar_CustomerChurnPrediction.ipynb` | Full project code with outputs |
 | `requirements.txt` | Python libraries needed |
-| `YourName_ProjectReport.docx` | Project report |
+| `Omkar_ProjectReport.docx` | Project report |
 | `README.md` | This file |
 
 ## How to Run
@@ -42,7 +42,7 @@ The notebook loads the data directly from the link above. If you have no interne
    pip install -r requirements.txt
    jupyter notebook
    ```
-3. Open `YourName_CustomerChurnPrediction.ipynb`.
+3. Open `Omkar_CustomerChurnPrediction.ipynb`.
 4. Click **Kernel > Restart & Run All**.
 
 Running the notebook creates a `figures/` folder with charts, plus `model_results.csv` and `high_risk_customers.csv`.
